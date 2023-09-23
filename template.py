@@ -5,7 +5,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
-project_name = "TextSUMMSRIZER"
+project_name = "TextSUMMERIZER"
 
 list_of_files = [
     ".github/worlflows/.gitkeep", #.gitkeep hidden folder for timing being before writting yaml
